@@ -1,0 +1,33 @@
+/*Universal */
+html{
+    background-color: black;
+    font-family:Verdana;
+    text-align: center;
+    font-weight:normal;
+    color:white;
+}
+/*Main*/
+image{
+    align-items: center;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-weight: 300;
+    font-size: 40px;
+}
+p{
+    font-size: 19px;
+    color:gray;
+}
+/*Footer*/
+footer{
+    text-align: right;
+    color:gray;
+}
+/*Specifics*/
+.clicking{
+    color:aquamarine;
+    text-decoration: underline;
+}
